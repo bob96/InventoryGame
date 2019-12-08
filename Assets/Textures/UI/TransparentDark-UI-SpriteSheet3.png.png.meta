@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 8e6b595990f567d408373d9397db5089
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1958049337842678181
+    second: TransparentDark-UI-SpriteSheet3.png_0
+  - first:
+      213: 4206957092105324941
+    second: TransparentDark-UI-SpriteSheet3.png_1
+  - first:
+      213: -6231074266992780779
+    second: TransparentDark-UI-SpriteSheet3.png_2
+  - first:
+      213: 1167983982616096394
+    second: TransparentDark-UI-SpriteSheet3.png_3
+  - first:
+      213: -1424783411402449956
+    second: TransparentDark-UI-SpriteSheet3.png_4
+  - first:
+      213: 7642707685639255792
+    second: TransparentDark-UI-SpriteSheet3.png_5
+  - first:
+      213: -4756333174969723523
+    second: TransparentDark-UI-SpriteSheet3.png_6
+  - first:
+      213: 8080712175202324457
+    second: TransparentDark-UI-SpriteSheet3.png_7
+  - first:
+      213: 29890132269253962
+    second: TransparentDark-UI-SpriteSheet3.png_8
+  - first:
+      213: -6837293933477721319
+    second: TransparentDark-UI-SpriteSheet3.png_9
+  - first:
+      213: 778219749424347399
+    second: TransparentDark-UI-SpriteSheet3.png_10
+  - first:
+      213: -5892057767440747128
+    second: TransparentDark-UI-SpriteSheet3.png_11
+  - first:
+      213: 1620608166783328107
+    second: TransparentDark-UI-SpriteSheet3.png_12
+  - first:
+      213: -8168126305154228050
+    second: TransparentDark-UI-SpriteSheet3.png_13
+  - first:
+      213: 5386404622185696193
+    second: TransparentDark-UI-SpriteSheet3.png_14
+  - first:
+      213: 4846275078483936355
+    second: TransparentDark-UI-SpriteSheet3.png_15
+  - first:
+      213: -2585412735678102586
+    second: TransparentDark-UI-SpriteSheet3.png_16
+  - first:
+      213: 283112975607075199
+    second: TransparentDark-UI-SpriteSheet3.png_17
+  - first:
+      213: 457793177469790075
+    second: TransparentDark-UI-SpriteSheet3.png_18
+  - first:
+      213: -2584039912130353450
+    second: TransparentDark-UI-SpriteSheet3.png_19
+  - first:
+      213: -1916011254191648367
+    second: TransparentDark-UI-SpriteSheet3.png_20
+  - first:
+      213: 2383504966366576643
+    second: TransparentDark-UI-SpriteSheet3.png_21
+  - first:
+      213: -4299104421982679204
+    second: TransparentDark-UI-SpriteSheet3.png_22
+  - first:
+      213: 1896734003947549256
+    second: TransparentDark-UI-SpriteSheet3.png_23
+  - first:
+      213: -4841389710619593768
+    second: TransparentDark-UI-SpriteSheet3.png_24
+  - first:
+      213: -104439450172390704
+    second: TransparentDark-UI-SpriteSheet3.png_25
+  - first:
+      213: 7682781148454589854
+    second: TransparentDark-UI-SpriteSheet3.png_26
+  - first:
+      213: -4832382127682730118
+    second: TransparentDark-UI-SpriteSheet3.png_27
+  - first:
+      213: -5657568870474399120
+    second: TransparentDark-UI-SpriteSheet3.png_28
+  - first:
+      213: -3318612087840573468
+    second: TransparentDark-UI-SpriteSheet3.png_29
+  - first:
+      213: 9220713256512484586
+    second: TransparentDark-UI-SpriteSheet3.png_30
+  - first:
+      213: -6580822250042841758
+    second: TransparentDark-UI-SpriteSheet3.png_31
+  - first:
+      213: -2271537731855007740
+    second: TransparentDark-UI-SpriteSheet3.png_32
+  - first:
+      213: 7010571802819681476
+    second: TransparentDark-UI-SpriteSheet3.png_33
+  - first:
+      213: -2537327980062788963
+    second: TransparentDark-UI-SpriteSheet3.png_34
+  - first:
+      213: 1967173621424107896
+    second: TransparentDark-UI-SpriteSheet3.png_35
+  - first:
+      213: 8076100932325198311
+    second: TransparentDark-UI-SpriteSheet3.png_36
+  - first:
+      213: -4207546681856395384
+    second: TransparentDark-UI-SpriteSheet3.png_37
+  - first:
+      213: 6769221168261839850
+    second: TransparentDark-UI-SpriteSheet3.png_38
+  - first:
+      213: -1231307362353875048
+    second: TransparentDark-UI-SpriteSheet3.png_39
+  - first:
+      213: -2507605820625226270
+    second: TransparentDark-UI-SpriteSheet3.png_40
+  - first:
+      213: 6496368714572203497
+    second: TransparentDark-UI-SpriteSheet3.png_41
+  - first:
+      213: 7929743198827089517
+    second: TransparentDark-UI-SpriteSheet3.png_42
+  - first:
+      213: -7304921478353324110
+    second: TransparentDark-UI-SpriteSheet3.png_43
+  - first:
+      213: -6046988625937041833
+    second: TransparentDark-UI-SpriteSheet3.png_44
+  - first:
+      213: -4766273398589726533
+    second: TransparentDark-UI-SpriteSheet3.png_45
+  - first:
+      213: 3804630945306719378
+    second: TransparentDark-UI-SpriteSheet3.png_46
+  - first:
+      213: -5047843708065449303
+    second: TransparentDark-UI-SpriteSheet3.png_47
+  - first:
+      213: 7388038525790856800
+    second: TransparentDark-UI-SpriteSheet3.png_48
+  - first:
+      213: 7274947243336923783
+    second: TransparentDark-UI-SpriteSheet3.png_49
+  - first:
+      213: -5421467347559276289
+    second: TransparentDark-UI-SpriteSheet3.png_50
+  - first:
+      213: -7216100963782047400
+    second: TransparentDark-UI-SpriteSheet3.png_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1433
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b48fc2e7d9fc4d83de31f89c89ab8
+      internalID: 1958049337842678181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1433
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40fddf388a6b094ca103396880add4f
+      internalID: 4206957092105324941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1433
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a293a9665411db469c74d4f58bef67e
+      internalID: -6231074266992780779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1433
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496db4a93689a046a7241cd5535f45a
+      internalID: 1167983982616096394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1433
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a80c149fbcbd4298b9a7e65164e34
+      internalID: -1424783411402449956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1433
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed2007bc392f21448479c4b7d7ee9a1
+      internalID: 7642707685639255792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_6
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1520
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2caeecf4205a48be98007f65f5e8a
+      internalID: -4756333174969723523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_7
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1433
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9cc26c15f76048a6aa7821eb60525
+      internalID: 8080712175202324457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1196
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac5193532c1ac41b6b0420e10624a9
+      internalID: 29890132269253962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1196
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a213e0e16d881043aecf6ddbbef4d10
+      internalID: -6837293933477721319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1196
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f2b6bdfa363f14091d8f0b8a76bca8
+      internalID: 778219749424347399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1203
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba1e4b6cbacca4c9b13d75d49ace15
+      internalID: -5892057767440747128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_12
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1203
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d9fb1c62aae6b4381f135d51b1897a
+      internalID: 1620608166783328107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_13
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1203
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1093920fbfe56049a0339e0b9bc175f
+      internalID: -8168126305154228050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_14
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1374
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a0d494e8f6ab49956e8f77155519c
+      internalID: 5386404622185696193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_15
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1196
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa5c9555293e7a438255189c25fcb08
+      internalID: 4846275078483936355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_16
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1228
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1356f19fef1f3834bb6a6543f116bb47
+      internalID: -2585412735678102586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 966
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410376a71e22db34481b12af74458b74
+      internalID: 283112975607075199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_18
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1046
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b951529f5a16ee846b585e4a4f83274a
+      internalID: 457793177469790075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_19
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1046
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592613368500ef4194fd05eeb25fc07
+      internalID: -2584039912130353450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_20
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1082
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2d36ae8546eb47988a50fdddf543f
+      internalID: -1916011254191648367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_21
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 959
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1638213079c0349a7a01f2b14ba1e5
+      internalID: 2383504966366576643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 936
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a412036c78c5d47af03baef4885242
+      internalID: -4299104421982679204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 936
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb872d288f0eeb48b4dc9ef4d9549dc
+      internalID: 1896734003947549256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_24
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 936
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdadfb632eaa5504e99cfa135295fded
+      internalID: -4841389710619593768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_25
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 722
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ff96085288264e8bdfa68e45e44cf
+      internalID: -104439450172390704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 790
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890c02bcd710ea4686906010fec618d
+      internalID: 7682781148454589854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 790
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def298a094009e54c9fccce4219e043b
+      internalID: -4832382127682730118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 790
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1056f36defa42479ae9c2bdd423f05
+      internalID: -5657568870474399120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_29
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 790
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1066bf7e87a346b8c13f108f008a9
+      internalID: -3318612087840573468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_30
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 790
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5e9ecefcc18c4bbde721ba40245fe
+      internalID: 9220713256512484586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 644
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6386aa10333041b3d27b557e9f475
+      internalID: -6580822250042841758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 644
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303fd4057bd147429a9fc7b25ac0e0f
+      internalID: -2271537731855007740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_33
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 644
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ac39f5dae863a4bb0bb0d1282ada77
+      internalID: 7010571802819681476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_34
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 644
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac9bac23cdf264890485722a81839b
+      internalID: -2537327980062788963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_35
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 644
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d8db464fe7834ebe06d65b42f9f0e
+      internalID: 1967173621424107896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_36
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 485
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a22186ea69654687cc384add5916b
+      internalID: 8076100932325198311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 498
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7119eba033284ba64d42954a9d7ea
+      internalID: -4207546681856395384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 498
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cabba1b06bca0c48a2be7a791348bb9
+      internalID: 6769221168261839850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 498
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27049826d99af4592e32c95c8acd7b
+      internalID: -1231307362353875048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_40
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 498
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebd2c0722f26184eb19aea3e54a4411
+      internalID: -2507605820625226270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_41
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 498
+        width: 296
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4fee3caf9bd04bb0afcfda60c0233
+      internalID: 6496368714572203497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c4d46ee606ea4284b166c3aa16b0f
+      internalID: 7929743198827089517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 265
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f2a8ee5f4ac74d8f11835ce973968
+      internalID: -7304921478353324110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_44
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 265
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e7c619669b5c40b5df0cb9ba7cc93
+      internalID: -6046988625937041833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 265
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3dea2351222b47aad8e746029c0c4
+      internalID: -4766273398589726533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_46
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 265
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83c1639f51a264aabda9e7ac5dbc26
+      internalID: 3804630945306719378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_47
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 265
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd56e73faf03843a3b4db7a10d5b0a
+      internalID: -5047843708065449303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_48
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 248
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b0028ec4fb9e4b876393f1a199bb0
+      internalID: 7388038525790856800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa325faf8f29244842086b1a10dd6d
+      internalID: 7274947243336923783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 11
+        width: 215
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353caf65ae6506c4db4e36e53803a273
+      internalID: -5421467347559276289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransparentDark-UI-SpriteSheet3.png_51
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 11
+        width: 216
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8594d4aec99b8048abd8d5c25e8a24b
+      internalID: -7216100963782047400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
